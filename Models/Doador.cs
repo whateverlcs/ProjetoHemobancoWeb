@@ -41,6 +41,10 @@ namespace ProjetoHemobancoWeb.Models
         [Required(ErrorMessage = "Campo obrigatório!")]
         public string Uf { get; set; }
 
+        [Display(Name = "Data de nascimento:")]
+        [Required(ErrorMessage = "Campo obrigatório!")]
+        public string DataNascimento { get; set; }
+
         [Required(ErrorMessage = "Campo obrigatório!")]
         public string Telefone { get; set; }
 
