@@ -16,7 +16,7 @@
   <img alt="GitHub Stars Repository" src="https://img.shields.io/github/stars/whateverlcs/hemobanco?style=social">
 </p>
 
-🦸‍♂️ Hemobanco é uma aplicação Front-end e Back-end construída durante a matéria de Desenvolvimento Microsoft, ministrada por [Diogo Steinke Deconto](https://github.com/dideconto/ "Github do Professor") no curso de Ánalise e Desenvolvimento de Sistemas da Universidade Positivo.
+🦸‍♂️ Hemobanco é uma aplicação Front-end e Back-end construída durante a matéria de Desenvolvimento Microsoft em 2020, ministrada por [Diogo Steinke Deconto](https://github.com/dideconto/ "Github do Professor") no curso de Ánalise e Desenvolvimento de Sistemas da Universidade Positivo.
 
 A aplicação foi criada utilizando a linguagem C# com Entity Framework para o banco de dados, juntamente com HTML e CSS para estilização das páginas. O projeto consiste em possibilitar o gerenciamento (CRUD) de doadores, doações, reservas, funcionários e controle de estoque, além disso, possuí autenticação e validação ao se cadastrar/logar no sistema, com criptografia nas senhas.
 
